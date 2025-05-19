@@ -271,6 +271,3 @@ export default function LeadsDashboard() {
 * Guardar `ML_CLIENT_ID`, `ML_CLIENT_SECRET` y URIs en `.env`.
 * Consultar documentación oficial: [https://developers.mercadolibre.com.ar](https://developers.mercadolibre.com.ar)
 
----
-
-¿Querés que te prepare un repositorio base para clonar esto todo armado? 😄
